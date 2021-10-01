@@ -1,0 +1,18 @@
+What is Data Structure?
+The way you organize the data in the main memory during execution of a program is a data structure.
+
+Topics
+Topics:
+
+Arrays
+Matrices
+Linked List
+
+Stack
+Queues
+Trees
+Graph
+Hashing
+
+Recursion
+Sorting
