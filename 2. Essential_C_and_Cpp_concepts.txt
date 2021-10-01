@@ -1,0 +1,28 @@
+Contents:
+	1. Arrays Basics
+	2. Structures
+	3. Pointers
+	4. Reference in C++
+	5. Pointer to Structure
+	6. Functions
+	7. Parameter Passing Methods
+	8. Array as Parameter
+	9. Structure as Parameter
+	10. Structures and Functions
+	11. Converting a C program to a C++
+	12. Monolithic Program
+	13. Modular Program
+	14. Object-Oriented Program
+	15. C++ Class and Constructor
+  16. Template classes
+
+1. Array Basics:
+================
+Array is a collection of simialr data types
+
+declaration:
+int A[5];
+
+Declaration + Initialization:
+int A[5] = {2,4,6,8,10};
+
